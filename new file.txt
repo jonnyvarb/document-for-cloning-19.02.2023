@@ -1,3 +1,9 @@
-print('Hellow World, My name Jonny')
+<<<<<<< HEAD
+print('Hellow World')
+=======
+print('Hellow World, i am jonny')
+print('My name Jonny')
+<<<<<<< HEAD
+>>>>>>> 554ea3e656885c019367f55289f36f4b4fce53f2
 for i in range(10):
     print(i)
