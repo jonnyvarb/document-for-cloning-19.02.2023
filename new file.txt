@@ -1,2 +1,5 @@
 print('Hellow World')
 print('My name Jonny')
+for i in range(10):
+    print(i)
+
