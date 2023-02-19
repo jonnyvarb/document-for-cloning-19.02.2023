@@ -1,4 +1,4 @@
-print('Hellow World, i am jonny')
+print('Hellow World - jonny')
 print('My name Jonny')
 <<<<<<< HEAD
 for i in range(10):
