@@ -1,3 +1,2 @@
 print('Hellow World')
 print('My name Jonny')
-print()
