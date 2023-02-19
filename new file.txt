@@ -1,5 +1,8 @@
 print('Hellow World')
 print('My name Jonny')
+<<<<<<< HEAD
 for i in range(10):
     print(i)
 
+=======
+>>>>>>> ccaa4c69f76e2b2e89ff4a8e1c50f5f22620a2fd
